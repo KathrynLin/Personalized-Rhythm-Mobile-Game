@@ -1,15 +1,13 @@
 # Team Roster
-魏林达,Wei Linda,520370910056,lullcant@sjtu.edu.cn 
-Responsible for: Backend AI generative model settlement, osu to our game chart parser, game lag optimization. Almost all frontend UI Pannels and UI codes includes:
-
-UI: Title page, User Profile Panel, Selection Pannel, Setting Pannel, World rank pannel, Frontend login pannel, In game-link to diffusion backend. 
-
-Code: Backend: Diffusion webui code, DPM 1st order Sampler,
-      Frontend: Scriptable object and Update function and logic for user profile, Update function and communicate with backend for world rank leaderboard, the appear and disappear logic for login pannel, Conrtrolling code for the slider UI of game audio and game speed, link to diffusion backend. 
-      upload score to the backend server in game manager。
-      
 林方晴,Lin Fangqing,520021911352,l_kathryn@sjtu.edu.cn 
 Responsible for: backend database storage, several apis for the frontend to call, for example: return leaderboard, return world rank, login, signup. And access token in order to prevent server attacking. Assisted in deploying the diffusion model on Linux. Tested the backend functionality and integrated it with the frontend.
+
+魏林达,Wei Linda,520370910056,lullcant@sjtu.edu.cn 
+Responsible for: Backend AI generative model settlement, osu to our game chart parser, game lag optimization. Almost all frontend UI Pannels and UI codes includes:
+UI: Title page, User Profile Panel, Selection Pannel, Setting Pannel, World rank pannel, Frontend login pannel, In game-link to diffusion backend. 
+Code: Backend: Diffusion webui code, DPM 1st order Sampler,
+      Frontend: Scriptable object and Update function and logic for user profile, Update function and communicate with backend for world rank leaderboard, the appear and disappear logic for login pannel, Conrtrolling code for the slider UI of game audio and game speed, link to diffusion backend. 
+      upload score to the backend server in game manager.
 
 王韵晨,Wang Yunchen,520370910012,mac-wang@sjtu.edu.cn
 Responsible for: Resolved a variety of challenges associated with deploying the project across different platforms, particularly focusing on issues like reading from external storage, rendering inconsistencies, and display anomalies on Android devices. Notably, corrected the display issues caused by UnityWebRequest specifically on Android. Additionally, took charge of developing the bulk of the code required for Android gyroscope detection, a pivotal functionality within the project. Assisted in testing the overall performance of the entire project, managed the majority of migration releases in the Git repository, and handled pull requests.
